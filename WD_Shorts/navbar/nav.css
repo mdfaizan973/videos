@@ -1,0 +1,18 @@
+/* #navbar{
+    display: flex;
+    background-image: linear-gradient(rgb(246, 118, 118),rgb(111, 109, 109));
+    align-items: center;
+    justify-content: space-between;
+}
+#navbar ul {
+    display: flex;
+    width: 40%;
+    justify-content: space-around;
+}
+#navbar ul li {
+    list-style: none;
+}
+ul li a{
+    text-decoration: none;
+    color: black;
+} */
